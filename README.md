@@ -1,6 +1,6 @@
-# Updates
-Released on Aug 2024
-WHAT'S NEW ON VERSION 1.3
+## Updates
+# Released on Aug 2024
+# WHAT'S NEW ON VERSION 1.3
 
 1.Auto Grouping Employee Based on predefined Criteria
 
