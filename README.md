@@ -3,6 +3,7 @@ Released on Aug 2024
 WHAT'S NEW ON VERSION 1.3
 
 1.Auto Grouping Employee Based on predefined Criteria
+
 2.General setting for reporting,Period Closing and more 
 3.Shortcut Links for direct accessing pages 
 4.New Salary,Back Payment and Bank Account Batch Loading
