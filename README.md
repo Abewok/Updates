@@ -3,7 +3,7 @@
 ## Released on Oct 2024
 ## WHAT'S NEW ON VERSION 1.3.0.3
 
-1. New Salary Scale JEG2
+1. New Salary Scale JEG2 Included
 
 
 ## Released on Aug 2024
