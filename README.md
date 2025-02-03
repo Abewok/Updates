@@ -1,12 +1,19 @@
 # Updates
+## VERSION 1.4 Released on Feb 2025
+## WHAT'S NEW ON VERSION 1.4
+--Part of Quarterly Release
+1. DQL Custom Queries are supported
+   
+2. Patch Method changed to application side from Database
 
-## Released on Oct 2024
+## VERSION 1.3.0.3 Released on Oct 2024
 ## WHAT'S NEW ON VERSION 1.3.0.3
 
 1. New Salary Scale JEG2 Included
 
+2. Error Auto Corrections included
 
-## Released on Aug 2024
+## VERSION 1.3 Released on Aug 2024
 ## WHAT'S NEW ON VERSION 1.3
 
 1. Auto Grouping Employee Based on predefined Criteria
@@ -40,3 +47,10 @@
 15. Process controller on case of power interruptions
 
 16. Mainitaining Indexes based on Database performance
+
+## VERSION 1.2 Released on Aug 2023
+## WHAT'S NEW ON VERSION 1.2
+
+1. Bug Fixes from users feedback
+
+2. Updates/Patch Method Included
