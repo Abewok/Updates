@@ -2,9 +2,11 @@
 ## VERSION 1.4 Released on Feb 2025
 ## WHAT'S NEW ON VERSION 1.4
 --Part of Quarterly Release
-1. DQL Custom Queries are supported
+1. Running DQL Custom Queries are supported
    
 2. Patch Method changed to application side from Database
+
+3. Download Backups to Remote clients to minimize data loss on disk failures
 
 ## VERSION 1.3.0.3 Released on Oct 2024
 ## WHAT'S NEW ON VERSION 1.3.0.3
